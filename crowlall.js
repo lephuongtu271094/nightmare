@@ -8,8 +8,8 @@ const fs = require('fs');
 const path = require('path')
 
 let realdata = [];
-const diachi = 'market  ';
-const duongdan = 'https://www.foody.vn/ha-noi/shop/cho?q=';
+const diachi = 'quanan';
+const duongdan = 'https://www.foody.vn/ho-chi-minh/food/quan-nhau?q=';
 
 function getOption(url, name, id, index) {
 
@@ -18,7 +18,7 @@ function getOption(url, name, id, index) {
         des = '';
         destPath = '';
     }else {
-        destPath = __dirname + '/img/quanhoankiem/'+ diachi +'/';
+        destPath = __dirname + '/img/tphcm/quan1/'+ diachi +'/';
         if (index) {
             des = destPath + id + index + '.jpg';
         } else {
@@ -167,11 +167,11 @@ nightmare
     // .type('input[ng-model="Data.Password"]', 'rootvn')
     // .click('.btn-login')
     // .wait(1000)
-    .type('#pkeywords', 'quận hoàn kiếm')
+    .type('#pkeywords', 'quận một')
     .click('.ico-search')
     .wait(1000)
-    // .click('#scrollLoadingPage')
-    // .wait(1000)
+    .click('#scrollLoadingPage')
+    .wait(1000)
     .evaluate(function () {
         let res = document.querySelectorAll('.filter-result-item .result-image');
             let arr = [];
@@ -179,7 +179,7 @@ nightmare
             let tm = res[i].querySelector('a').href;
             arr.push(tm + '/album-anh');
         }
-        let newarr = arr.slice(1, 15);
+        let newarr = arr.slice(0, 15);
         return newarr;
     })
     .end()
@@ -206,7 +206,7 @@ function exportJson(arr) {
         json[i] = arr[i];
     }
     let jsonString = JSON.stringify(json);
-    fs.writeFile('filejson/quanhoankiem/'+ diachi +'.json', jsonString, (err) => {
+    fs.writeFile('filejson/tphcm/quan1/'+ diachi +'.json', jsonString, (err) => {
         if (err) {
             console.log(err.message)
         }

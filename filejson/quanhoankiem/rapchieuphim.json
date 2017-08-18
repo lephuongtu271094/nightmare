@@ -1,1 +1,41 @@
-{"0":{"address":"43 Hàng Bài","album":["S1CEzKfdZ.jpg","S1CEzKfdZ1.jpg","S1CEzKfdZ2.jpg","S1CEzKfdZ3.jpg","S1CEzKfdZ4.jpg","S1CEzKfdZ5.jpg","S1CEzKfdZ6.jpg","S1CEzKfdZ7.jpg"],"district":"Quận Hoàn Kiếm","image":"S1CEzKfdZ.jpg","lat":21.021514,"long":105.852358,"name":"August Cinema - Hàng Bài","octime":"  09:00 AM - 11:00 PM","rate":5.3,"type":"Rạp chiếu phim","id":"S1CEzKfdZ"},"1":{"address":"19 Hàng Bài","album":["ByeR4fYzOW.jpg","ByeR4fYzOW1.jpg","ByeR4fYzOW2.jpg"],"district":"Quận Hoàn Kiếm","image":"ByeR4fYzOW.jpg","lat":21.0237712010434,"long":105.8529321849346,"name":"Rạp Kim Đồng - Hàng Bài","octime":"  09:00 AM - 11:00 PM","rate":6.7,"type":"Rạp chiếu phim","id":"ByeR4fYzOW"}}
+{
+  "0": {
+    "address": "43 Hàng Bài",
+    "album": [
+      "S1CEzKfdZ.jpg",
+      "S1CEzKfdZ1.jpg",
+      "S1CEzKfdZ2.jpg",
+      "S1CEzKfdZ3.jpg",
+      "S1CEzKfdZ4.jpg",
+      "S1CEzKfdZ5.jpg",
+      "S1CEzKfdZ6.jpg",
+      "S1CEzKfdZ7.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "S1CEzKfdZ.jpg",
+    "lat": 21.021514,
+    "long": 105.852358,
+    "name": "August Cinema - Hàng Bài",
+    "octime": "  09:00 AM - 11:00 PM",
+    "rate": 5.3,
+    "type": "Rạp chiếu phim",
+    "id": "S1CEzKfdZ"
+  },
+  "1": {
+    "address": "19 Hàng Bài",
+    "album": [
+      "ByeR4fYzOW.jpg",
+      "ByeR4fYzOW1.jpg",
+      "ByeR4fYzOW2.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "ByeR4fYzOW.jpg",
+    "lat": 21.0237712010434,
+    "long": 105.8529321849346,
+    "name": "Rạp Kim Đồng - Hàng Bài",
+    "octime": "  09:00 AM - 11:00 PM",
+    "rate": 6.7,
+    "type": "Rạp chiếu phim",
+    "id": "ByeR4fYzOW"
+  }
+}
