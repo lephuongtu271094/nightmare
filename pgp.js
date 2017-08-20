@@ -1,6 +1,6 @@
 const path = require("path");
 const env = process.env.NODE_ENV || "development";
-const config = require(path.join(__dirname, 'config', 'tsconfig1.json'))[env];
+const config = require(path.join(__dirname, 'config', 'tsconfig.json'))[env];
 const Promise = require('bluebird');
 const monitor = require("pg-monitor");
 

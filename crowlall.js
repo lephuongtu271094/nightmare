@@ -83,7 +83,7 @@ function crawl(arr, cb) {
                     let octime = document.querySelectorAll('.micro-timesopen span')[1].getAttribute('title').replace('|', '');
                     // let octime = openTime + ' - ' + closeTime;
 
-                        let rate = document.querySelectorAll('.microsite-point-avg')[0].innerText;
+                    let rate = document.querySelectorAll('.microsite-point-avg')[0].innerText;
 
 
                     let lat = getLongLat('place:location:latitude');
