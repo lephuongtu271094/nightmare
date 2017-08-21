@@ -1,1 +1,102 @@
-{"0":{"address":"8 Ngô Quyền","album":["rJgup5f_W.jpg"],"district":"Quận Hoàn Kiếm","image":"rJgup5f_W.jpg","lat":21.029008,"long":105.856501,"name":"Hapro Food - Ngô Quyền","octime":"  08:00 AM - 10:00 PM","rate":0,"type":"Siêu thị","id":"rJgup5f_W"},"1":{"address":"68 Hàng Bông","album":["BkglOTczOb.jpg"],"district":"Quận Hoàn Kiếm","image":"BkglOTczOb.jpg","lat":21.030472,"long":105.847213,"name":"Hapro Food - Hàng Bông","octime":"  08:00 AM - 10:00 PM","rate":0,"type":"Siêu thị","id":"BkglOTczOb"},"2":{"address":"Tầng 1, TTTM Thiên Sơn Plaza Hoàn Kiếm, 2 Chương Dương Độ","album":["ryWxOT9GOb.jpg","ryWxOT9GOb1.jpg","ryWxOT9GOb2.jpg","ryWxOT9GOb3.jpg","ryWxOT9GOb4.jpg","ryWxOT9GOb5.jpg","ryWxOT9GOb6.jpg","ryWxOT9GOb7.jpg","ryWxOT9GOb8.jpg","ryWxOT9GOb9.jpg","ryWxOT9GOb10.jpg","ryWxOT9GOb11.jpg","ryWxOT9GOb12.jpg","ryWxOT9GOb13.jpg","ryWxOT9GOb14.jpg","ryWxOT9GOb15.jpg"],"district":"Quận Hoàn Kiếm","image":"ryWxOT9GOb.jpg","lat":21.0295164,"long":105.8586432,"name":"Siêu Thị Fivimart - Chương Dương Độ","octime":"  07:00 AM - 11:00 PM","rate":7.5,"type":"Siêu thị","id":"ryWxOT9GOb"},"3":{"address":"49 Hai Bà Trưng","album":["HJb_a9Mdb.jpg","HJb_a9Mdb1.jpg","HJb_a9Mdb2.jpg","HJb_a9Mdb3.jpg","HJb_a9Mdb4.jpg","HJb_a9Mdb5.jpg","HJb_a9Mdb6.jpg","HJb_a9Mdb7.jpg","HJb_a9Mdb8.jpg","HJb_a9Mdb9.jpg","HJb_a9Mdb10.jpg"],"district":"Quận Hoàn Kiếm","image":"HJb_a9Mdb.jpg","lat":21.026012,"long":105.846675,"name":"Citimart - Hai Bà Trưng","octime":"  08:00 AM - 09:30 PM","rate":0,"type":"Siêu thị","id":"HJb_a9Mdb"},"4":{"address":"1 Lý Nam Đế","album":["rJMdpcfdZ.jpg"],"district":"Quận Hoàn Kiếm","image":"rJMdpcfdZ.jpg","lat":21.0394201248348,"long":105.8459252491593,"name":"Siêu Thị Unimart - Lý Nam Đế","octime":"  06:00 AM - 10:00 PM","rate":0,"type":"Siêu thị","id":"rJMdpcfdZ"}}
+{
+  "0": {
+    "address": "8 Ngô Quyền",
+    "album": [
+      "rJgup5f_W.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "rJgup5f_W.jpg",
+    "lat": 21.029008,
+    "long": 105.856501,
+    "name": "Hapro Food - Ngô Quyền",
+    "octime": "  08:00 AM - 10:00 PM",
+    "rate": 0,
+    "type": "Siêu thị",
+    "id": "rJgup5f_W"
+  },
+  "1": {
+    "address": "68 Hàng Bông",
+    "album": [
+      "BkglOTczOb.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "BkglOTczOb.jpg",
+    "lat": 21.030472,
+    "long": 105.847213,
+    "name": "Hapro Food - Hàng Bông",
+    "octime": "  08:00 AM - 10:00 PM",
+    "rate": 0,
+    "type": "Siêu thị",
+    "id": "BkglOTczOb"
+  },
+  "2": {
+    "address": "Tầng 1, TTTM Thiên Sơn Plaza Hoàn Kiếm, 2 Chương Dương Độ",
+    "album": [
+      "ryWxOT9GOb.jpg",
+      "ryWxOT9GOb1.jpg",
+      "ryWxOT9GOb2.jpg",
+      "ryWxOT9GOb3.jpg",
+      "ryWxOT9GOb4.jpg",
+      "ryWxOT9GOb5.jpg",
+      "ryWxOT9GOb6.jpg",
+      "ryWxOT9GOb7.jpg",
+      "ryWxOT9GOb8.jpg",
+      "ryWxOT9GOb9.jpg",
+      "ryWxOT9GOb10.jpg",
+      "ryWxOT9GOb11.jpg",
+      "ryWxOT9GOb12.jpg",
+      "ryWxOT9GOb13.jpg",
+      "ryWxOT9GOb14.jpg",
+      "ryWxOT9GOb15.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "ryWxOT9GOb.jpg",
+    "lat": 21.0295164,
+    "long": 105.8586432,
+    "name": "Siêu Thị Fivimart - Chương Dương Độ",
+    "octime": "  07:00 AM - 11:00 PM",
+    "rate": 7.5,
+    "type": "Siêu thị",
+    "id": "ryWxOT9GOb"
+  },
+  "3": {
+    "address": "49 Hai Bà Trưng",
+    "album": [
+      "HJb_a9Mdb.jpg",
+      "HJb_a9Mdb1.jpg",
+      "HJb_a9Mdb2.jpg",
+      "HJb_a9Mdb3.jpg",
+      "HJb_a9Mdb4.jpg",
+      "HJb_a9Mdb5.jpg",
+      "HJb_a9Mdb6.jpg",
+      "HJb_a9Mdb7.jpg",
+      "HJb_a9Mdb8.jpg",
+      "HJb_a9Mdb9.jpg",
+      "HJb_a9Mdb10.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "HJb_a9Mdb.jpg",
+    "lat": 21.026012,
+    "long": 105.846675,
+    "name": "Citimart - Hai Bà Trưng",
+    "octime": "  08:00 AM - 09:30 PM",
+    "rate": 0,
+    "type": "Siêu thị",
+    "id": "HJb_a9Mdb"
+  },
+  "4": {
+    "address": "1 Lý Nam Đế",
+    "album": [
+      "rJMdpcfdZ.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "rJMdpcfdZ.jpg",
+    "lat": 21.0394201248348,
+    "long": 105.8459252491593,
+    "name": "Siêu Thị Unimart - Lý Nam Đế",
+    "octime": "  06:00 AM - 10:00 PM",
+    "rate": 0,
+    "type": "Siêu thị",
+    "id": "rJMdpcfdZ"
+  }
+}

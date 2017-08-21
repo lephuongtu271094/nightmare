@@ -1,1 +1,32 @@
-{"0":{"address":"24 Hai Bà Trưng","album":["Hyn33cGdb.jpg","Hyn33cGdb1.jpg","Hyn33cGdb2.jpg","Hyn33cGdb3.jpg","Hyn33cGdb4.jpg","Hyn33cGdb5.jpg","Hyn33cGdb6.jpg","Hyn33cGdb7.jpg","Hyn33cGdb8.jpg","Hyn33cGdb9.jpg","Hyn33cGdb10.jpg","Hyn33cGdb11.jpg","Hyn33cGdb12.jpg","Hyn33cGdb13.jpg","Hyn33cGdb14.jpg","Hyn33cGdb15.jpg"],"district":"Quận Hoàn Kiếm","image":"Hyn33cGdb.jpg","lat":21.024841,"long":105.853341,"name":"Tràng Tiền Plaza Shopping Center - Hai Bà Trưng","octime":"  09:00 AM - 09:30 PM","rate":7.6,"type":"Trung tâm thương mại","id":"Hyn33cGdb"}}
+{
+  "0": {
+    "address": "24 Hai Bà Trưng",
+    "album": [
+      "Hyn33cGdb.jpg",
+      "Hyn33cGdb1.jpg",
+      "Hyn33cGdb2.jpg",
+      "Hyn33cGdb3.jpg",
+      "Hyn33cGdb4.jpg",
+      "Hyn33cGdb5.jpg",
+      "Hyn33cGdb6.jpg",
+      "Hyn33cGdb7.jpg",
+      "Hyn33cGdb8.jpg",
+      "Hyn33cGdb9.jpg",
+      "Hyn33cGdb10.jpg",
+      "Hyn33cGdb11.jpg",
+      "Hyn33cGdb12.jpg",
+      "Hyn33cGdb13.jpg",
+      "Hyn33cGdb14.jpg",
+      "Hyn33cGdb15.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "Hyn33cGdb.jpg",
+    "lat": 21.024841,
+    "long": 105.853341,
+    "name": "Tràng Tiền Plaza Shopping Center - Hai Bà Trưng",
+    "octime": "  09:00 AM - 09:30 PM",
+    "rate": 7.6,
+    "type": "Trung tâm thương mại",
+    "id": "Hyn33cGdb"
+  }
+}

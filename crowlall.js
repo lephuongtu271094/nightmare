@@ -8,8 +8,8 @@ const fs = require('fs');
 const path = require('path')
 
 let realdata = [];
-const diachi = 'quanan';
-const duongdan = 'https://www.foody.vn/ho-chi-minh/food/quan-nhau?q=';
+const diachi = 'quananhoankiem';
+const duongdan = 'https://www.foody.vn/ha-noi/food/quan-an?q=';
 
 function getOption(url, name, id, index) {
 
@@ -18,7 +18,8 @@ function getOption(url, name, id, index) {
         des = '';
         destPath = '';
     }else {
-        destPath = __dirname + '/img/tphcm/quan1/'+ diachi +'/';
+        // destPath = __dirname + '/img/tphcm/quan1/'+ diachi +'/';
+        destPath = __dirname + '/img/quanhoankiem/'+ diachi +'/';
         if (index) {
             des = destPath + id + index + '.jpg';
         } else {
@@ -167,7 +168,7 @@ nightmare
     // .type('input[ng-model="Data.Password"]', 'rootvn')
     // .click('.btn-login')
     // .wait(1000)
-    .type('#pkeywords', 'quận một')
+    .type('#pkeywords', 'quận hoàn kiếm')
     .click('.ico-search')
     .wait(1000)
     .click('#scrollLoadingPage')
@@ -206,7 +207,8 @@ function exportJson(arr) {
         json[i] = arr[i];
     }
     let jsonString = JSON.stringify(json);
-    fs.writeFile('filejson/tphcm/quan1/'+ diachi +'.json', jsonString, (err) => {
+    // fs.writeFile('filejson/tphcm/quan1/'+ diachi +'.json', jsonString, (err) => {
+    fs.writeFile('filejson/quanhoankiem/'+ diachi +'.json', jsonString, (err) => {
         if (err) {
             console.log(err.message)
         }
