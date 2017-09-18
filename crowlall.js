@@ -8,8 +8,8 @@ const fs = require('fs');
 const path = require('path')
 
 let realdata = [];
-const diachi = 'quananhoankiem';
-const duongdan = 'https://www.foody.vn/ha-noi/food/quan-an?q=';
+const diachi = 'theduc';
+const duongdan = 'https://www.foody.vn/ha-noi/beauty/the-duc-tham-my?q=';
 
 function getOption(url, name, id, index) {
 
@@ -48,14 +48,15 @@ function crawl(arr, cb) {
 
         let night = new Nightmare({show: false});
         night.goto(item)
-            .wait(1000)
+            .wait(2000)
             .click('.fd-btn-login-new')
             .wait(1000)
-            .insert('input[ng-model="Data.Email"]', 'systemec2017@gmail.com')
-            .type('input[ng-model="Data.Password"]', 'rootvn')
             .click('.btn-login')
-
             .wait(1000)
+            .insert('#Email', 'systemec2017@gmail.com')
+            .type('#Password', 'rootvn')
+            .click('#bt_submit')
+            .wait(5000)
             .click('.lazy')
             .wait(1000)
             .click('.btn-load-more')
@@ -185,7 +186,7 @@ nightmare
     })
     .end()
     .then(function (result) {
-        // console.log(result)
+        console.log(result)
         crawl(result, function (err, res) {
 
             if (err) {

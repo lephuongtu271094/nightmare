@@ -1,1 +1,228 @@
-{"0":{"address":"19 Ngõ Trung Yên","album":[],"district":"Quận Hoàn Kiếm","image":"ByeVatMOW.jpg","lat":21.033441,"long":105.852409,"name":"Phòng Khám Y Học Cổ Truyền - Ngõ Trung Yên","octime":"  09:00 AM - 09:00 PM","rate":0,"type":"Phòng khám"},"1":{"address":"51 Phủ Doãn","album":[],"district":"Quận Hoàn Kiếm","image":"ryglNTtzdZ.jpg","lat":21.028636,"long":105.847785,"name":"Phòng Khám Răng Hàm Mặt - Phủ Doãn","octime":"  09:00 AM - 09:00 PM","rate":0,"type":"Phòng khám"},"2":{"address":"26 Lương Ngọc Quyến","album":[],"district":"Quận Hoàn Kiếm","image":"ByZl4pKGdZ.jpg","lat":21.034775,"long":105.852444,"name":"Trung Tâm Y Tế - Lương Ngọc Quyến","octime":"  08:00 AM - 05:00 PM","rate":0,"type":"Phòng khám"},"3":{"address":"101 Hàng Bạc","album":[],"district":"Quận Hoàn Kiếm","image":"BkfgEaFGub.jpg","lat":21.033913,"long":105.851974,"name":"Trạm Y Tế Phường Hàng Bạc","octime":"  08:00 AM - 05:00 PM","rate":0,"type":"Phòng khám"},"4":{"address":"32 Phùng Hưng","album":[],"district":"Quận Hoàn Kiếm","image":"rymxEatMdZ.jpg","lat":21.030427,"long":105.844707,"name":"Phòng Khám Đa Khoa Đức Minh","octime":"  00:00 - 23:59","rate":0,"type":"Phòng khám"},"5":{"address":"89 Thuốc Bắc","album":[],"district":"Quận Hoàn Kiếm","image":"S10N6tGO-.jpg","lat":21.034323,"long":105.84812,"name":"Trạm Y Tế Phường Hàng Bồ","octime":"  08:00 AM - 06:00 PM","rate":0,"type":"Phòng khám"},"6":{"address":"19B Trần Hưng Đạo","album":[],"district":"Quận Hoàn Kiếm","image":"BJ1B6Fz_W.jpg","lat":21.019744,"long":105.856243,"name":"Phòng Khám Răng Hàm Mặt - Trần Hưng Đạo","octime":"  07:00 AM - 08:00 PM","rate":0,"type":"Phòng khám"},"7":{"address":"113 Ngõ 99 Vọng Hà","album":[],"district":"Quận Hoàn Kiếm","image":"rJeyHpYfOW.jpg","lat":21.03059,"long":105.857976,"name":"Phòng Khám Lương Y Mạnh Hải","octime":"  09:00 AM - 09:00 PM","rate":0,"type":"Phòng khám"},"8":{"address":"89 Thợ Nhuộm","album":[],"district":"Quận Hoàn Kiếm","image":"HybJSaKMdZ.jpg","lat":21.021885,"long":105.849931,"name":"Phòng Khám Chuyên Khoa Tai Mũi Họng - Thợ Nhuộm","octime":"  07:00 AM - 08:00 PM","rate":0,"type":"Phòng khám"},"9":{"address":"9 Dã Tượng","album":[],"district":"Quận Hoàn Kiếm","image":"rJgraYMdW.jpg","lat":21.023152,"long":105.846532,"name":"Phòng Khám Phụ Sản Hoa Hồng","octime":"  07:00 AM - 07:00 PM","rate":0,"type":"Phòng khám"},"10":{"address":"19 Ngõ Trung Yên","album":[],"district":"Quận Hoàn Kiếm","image":"BJYBpYGdW.jpg","lat":21.033441,"long":105.852409,"name":"Phòng Khám Y Học Cổ Truyền - Ngõ Trung Yên","octime":"  09:00 AM - 09:00 PM","rate":0,"type":"Phòng khám"},"11":{"address":"45 Phan Bội Châu","album":[],"district":"Quận Hoàn Kiếm","image":"B1gKH6YfO-.jpg","lat":21.024338,"long":105.842997,"name":"Trạm Y tế Phường Cửa Nam","octime":"  07:00 AM - 10:00 PM","rate":0,"type":"Phòng khám"},"12":{"address":"26 Lương Ngọc Quyến","album":[],"district":"Quận Hoàn Kiếm","image":"r1ZKSTtGd-.jpg","lat":21.034775,"long":105.852444,"name":"Trung Tâm Y Tế - Lương Ngọc Quyến","octime":"  08:00 AM - 05:00 PM","rate":0,"type":"Phòng khám"},"13":{"address":"15 Liên Trì","album":[],"district":"Quận Hoàn Kiếm","image":"HJoB6FzOb.jpg","lat":21.021732,"long":105.846486,"name":"Phòng Khám Chuyên Khoa Phụ Sản - Liên Trì","octime":"  05:00 PM - 08:30 PM","rate":0,"type":"Phòng khám"}}
+{
+  "0": {
+    "address": "26 Thợ Nhuộm",
+    "album": [
+      "r1HBiuX5b.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "r1HBiuX5b.jpg",
+    "lat": 21.0268800869704,
+    "long": 105.8448510244488,
+    "name": "Phòng Khám 26 Thợ Nhuộm",
+    "octime": "  07:30 AM - 09:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "r1HBiuX5b"
+  },
+  "1": {
+    "address": "8 Vạn Kiếp",
+    "album": [
+      "SyxrroOQcW.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "SyxrroOQcW.jpg",
+    "lat": 21.0186,
+    "long": 105.862494,
+    "name": "Nha Khoa Thẩm Mỹ Thủ Đô - Vạn Kiếp",
+    "octime": "  07:30 AM - 08:00 PM",
+    "rate": 0,
+    "type": "Phòng khám, ",
+    "id": "SyxrroOQcW"
+  },
+  "2": {
+    "address": "98 Hàng Buồm",
+    "album": [
+      "HJLSoOm9-.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "HJLSoOm9-.jpg",
+    "lat": 21.035601,
+    "long": 105.850753,
+    "name": "Phòng Khám Đa Khoa - Hàng Buồm",
+    "octime": "  07:30 AM - 05:30 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "HJLSoOm9-"
+  },
+  "3": {
+    "address": "78 Trần Hưng Đạo",
+    "album": [
+      "BygUHjOm9W.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "BygUHjOm9W.jpg",
+    "lat": 21.0226946238613,
+    "long": 105.8464697375893,
+    "name": "Phòng Khám Răng Hàm Mặt Nam Trung - Trần Hưng Đạo",
+    "octime": "  07:00 AM - 10:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "BygUHjOm9W"
+  },
+  "4": {
+    "address": "54 Vân Đồn",
+    "album": [
+      "SJWIBj_7qW.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "SJWIBj_7qW.jpg",
+    "lat": 21.014245,
+    "long": 105.864816,
+    "name": "Phòng Khám Chuyên Khoa Nội - Vân Đồn",
+    "octime": "  01:00 PM - 09:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "SJWIBj_7qW"
+  },
+  "5": {
+    "address": "101 Hàng Bạc",
+    "album": [
+      "r1q8oO79-.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "r1q8oO79-.jpg",
+    "lat": 21.033913,
+    "long": 105.851974,
+    "name": "Trạm Y Tế Phường Hàng Bạc",
+    "octime": "  08:00 AM - 05:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "r1q8oO79-"
+  },
+  "6": {
+    "address": "19 Ngõ Trung Yên",
+    "album": [
+      "rygcLodXcZ.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "rygcLodXcZ.jpg",
+    "lat": 21.033441,
+    "long": 105.852409,
+    "name": "Phòng Khám Y Học Cổ Truyền - Ngõ Trung Yên",
+    "octime": "  09:00 AM - 09:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "rygcLodXcZ"
+  },
+  "7": {
+    "address": "26 Lương Ngọc Quyến",
+    "album": [
+      "ryoLsOm9Z.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "ryoLsOm9Z.jpg",
+    "lat": 21.034775,
+    "long": 105.852444,
+    "name": "Trung Tâm Y Tế - Lương Ngọc Quyến",
+    "octime": "  08:00 AM - 05:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "ryoLsOm9Z"
+  },
+  "8": {
+    "address": "12 Đinh Công Tráng",
+    "album": [
+      "BylsIi_X5-.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "BylsIi_X5-.jpg",
+    "lat": 21.018997,
+    "long": 105.859923,
+    "name": "Phòng Khám Đa Khoa Minh Tâm - Đinh Công Tráng",
+    "octime": "  08:00 AM - 09:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "BylsIi_X5-"
+  },
+  "9": {
+    "address": "3/69 Vọng Hà",
+    "album": [
+      "B1nIjd75b.jpg",
+      "B1nIjd75b1.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "B1nIjd75b.jpg",
+    "lat": 21.031291,
+    "long": 105.857592,
+    "name": "Phòng Khám Tư Nhân Ban Mai - Vọng Hà",
+    "octime": "Thứ 7 - CN  08:00 AM - 08:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "B1nIjd75b"
+  },
+  "10": {
+    "address": "26 Chương Dương Độ",
+    "album": [
+      "HJawo_m5Z.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "HJawo_m5Z.jpg",
+    "lat": 21.029866,
+    "long": 105.859649,
+    "name": "Phòng Khám Da Liễu - Chương Dương Độ",
+    "octime": "  08:00 AM - 09:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "HJawo_m5Z"
+  },
+  "11": {
+    "address": "101 Vọng Hà",
+    "album": [
+      "Hy0viOXqW.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "Hy0viOXqW.jpg",
+    "lat": 21.030236,
+    "long": 105.857957,
+    "name": "Trạm Y Tế Phường Chương Dương",
+    "octime": "  08:00 AM - 05:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "Hy0viOXqW"
+  },
+  "12": {
+    "address": "37A2 Lý Nam Đế",
+    "album": [
+      "r11_odX5W.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "r11_odX5W.jpg",
+    "lat": 21.036854,
+    "long": 105.845438,
+    "name": "Phòng Chẩn Trị Y Học Cổ Truyền Việt Hưng - Lý Nam Đế",
+    "octime": "  07:00 AM - 07:30 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "r11_odX5W"
+  },
+  "13": {
+    "address": "70 Hàng Bồ",
+    "album": [
+      "rkgkOsuQ5-.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "rkgkOsuQ5-.jpg",
+    "lat": 21.033865,
+    "long": 105.848456,
+    "name": "Phòng Khám Răng Hàm Mặt - Hàng Bồ",
+    "octime": "  03:00 PM - 08:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "rkgkOsuQ5-"
+  },
+  "14": {
+    "address": "3 Lý Nam Đế",
+    "album": [
+      "H1Z1usOQcb.jpg"
+    ],
+    "district": "Quận Hoàn Kiếm",
+    "image": "H1Z1usOQcb.jpg",
+    "lat": 21.039198,
+    "long": 105.845905,
+    "name": "Phòng Khám Răng Hàm Mặt - 3 Lý Nam Đế",
+    "octime": "Chiều  02:00 PM - 06:00 PM",
+    "rate": 0,
+    "type": "Phòng khám",
+    "id": "H1Z1usOQcb"
+  }
+}
